@@ -37,7 +37,6 @@ import {
   Row,
   Col
 } from "reactstrap";
-import { Link } from "react-router-dom";
 
 
 
@@ -100,32 +99,42 @@ function IndexNavbar() {
           <Nav navbar>
 
           <NavItem>
-              <NavLink>
-               <Link to="/">Home</Link>
+              <NavLink
+                href="/"
+              >
+               Home
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink>
-                <Link to="#aboutus">About</Link>
+              <NavLink
+                href="#aboutus"
+              >
+               About US
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink>
-                <Link to="#service">services</Link>
+              <NavLink
+                href="#service"
+              >
+               Services
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink>
-                <Link to="#team">team</Link>
+              <NavLink
+                href="#team"
+              >
+               Team
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink>
-                <Link to="#portfolio">portfolio</Link>
+              <NavLink
+                href="#portfolio"
+              >
+               Portfolio
               </NavLink>
             </NavItem>
 
@@ -189,15 +198,19 @@ function IndexNavbar() {
                     </UncontrolledDropdown>
                   </Nav>
             </NavItem> */}
-                <NavItem>
-              <NavLink>
-                <Link to="#project">project</Link>
+             <NavItem>
+              <NavLink
+                href="#project"
+              >
+               Projects
               </NavLink>
             </NavItem>
         
             <NavItem>
-              <NavLink>
-                <Link to="#contactus">Contact</Link>
+              <NavLink
+                href="#contactus"
+              >
+               Contact Us
               </NavLink>
             </NavItem>
 
