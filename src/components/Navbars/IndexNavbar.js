@@ -110,7 +110,7 @@ function IndexNavbar() {
               <NavLink
                 href="#aboutus"
               >
-               About US
+               About
               </NavLink>
             </NavItem>
 
@@ -210,7 +210,7 @@ function IndexNavbar() {
               <NavLink
                 href="#contactus"
               >
-               Contact Us
+               Contact
               </NavLink>
             </NavItem>
 
