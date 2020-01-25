@@ -99,42 +99,32 @@ function IndexNavbar() {
           <Nav navbar>
 
           <NavItem>
-              <NavLink
-                href="/"
-              >
-               Home
+              <NavLink>
+               <Link to="/">Home</Link>
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink
-                href="#aboutus"
-              >
-               About
+              <NavLink>
+                <Link to="#aboutus">About</Link>
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink
-                href="#service"
-              >
-               Services
+              <NavLink>
+                <Link to="#service">services</Link>
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink
-                href="#team"
-              >
-               Team
+              <NavLink>
+                <Link to="#team">team</Link>
               </NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink
-                href="#portfolio"
-              >
-               Portfolio
+              <NavLink>
+                <Link to="#portfolio">portfolio</Link>
               </NavLink>
             </NavItem>
 
@@ -198,19 +188,15 @@ function IndexNavbar() {
                     </UncontrolledDropdown>
                   </Nav>
             </NavItem> */}
-             <NavItem>
-              <NavLink
-                href="#project"
-              >
-               Project
+                <NavItem>
+              <NavLink>
+                <Link to="#project">project</Link>
               </NavLink>
             </NavItem>
         
             <NavItem>
-              <NavLink
-                href="#contactus"
-              >
-               Contact
+              <NavLink>
+                <Link to="#contactus">Contact</Link>
               </NavLink>
             </NavItem>
 
