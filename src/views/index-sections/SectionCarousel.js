@@ -75,9 +75,13 @@ function SectionCarousel() {
   };
   return (
     <>
-      <div className="section pt-o" id="carousel">
+      <div className="section pt-o" id="carousel" id="portfolio">
         <Container>
-          <h2 className="text-center"><b>Our Company Views</b></h2>
+
+          <div className="ui black segment">
+            <h2 className="text-center"><b>PORTFOLIO</b></h2>
+          </div>
+          
           <br/><br/>
           <Row>
             <Col className="ml-auto mr-auto" md="8">

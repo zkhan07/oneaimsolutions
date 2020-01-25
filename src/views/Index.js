@@ -31,6 +31,7 @@ import Project from "views/index-sections/Project.js";
 import Team from "views/index-sections/Team.js";
 import Footer from "views/index-sections/Footer.js";
 import Contactus from "views/index-sections/Contactus.js";
+import Aboutus from "views/index-sections/Aboutus.js";
 
 import SectionButtons from "views/index-sections/SectionButtons.js";
 import SectionNavbars from "views/index-sections/SectionNavbars.js";
@@ -64,6 +65,7 @@ function Index() {
         {/* <SectionNavigation /> */}
         {/* <SectionProgress /> */}
         {/* <SectionNotifications /> */}
+        <Aboutus />
         <Service />
         <Team />
         <SectionCarousel />

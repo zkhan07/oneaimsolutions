@@ -21,10 +21,10 @@ const Footer = () => {
                 <h3><b>OneAimSolutions</b></h3>
                 <div class="ui link list">
                 <p>OneAimSolutions is amongst the most favored and trusted companies offering online forex trading in india.</p>
-                <a><i className="facebook big blue icon"></i></a>
-                <a><i className="instagram big red icon"></i></a>
-                <a><i className="linkedin big blue icon"></i></a>
-                <a><i className="twitter big red icon"></i></a>
+                <a><i className="facebook big icon"></i></a>
+                <a><i className="instagram big icon"></i></a>
+                <a><i className="linkedin big icon"></i></a>
+                <a><i className="twitter big icon"></i></a>
                 </div>
                 </div>
 

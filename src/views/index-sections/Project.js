@@ -3,17 +3,17 @@ import { Container, Row, Col } from "reactstrap";
 
 const Project = () => {
     return(
-        <div>
+        <div id="project">
              <Container>
 
              <div className="ui divider"></div>
             <br/><br/><br/><br/>
 
             <div className="ui conatiner">
-                <div className="ui grid center aligned">
-                    <h1><b>PROJECTS</b></h1>
+                <div className="ui black segment center aligned">
+                    <h2><b>PROJECTS</b></h2>
                 </div>
-                <br/><br/><br/><br/>
+                <br/>
 
                 <div className="doubling stackable ui three column grid center aligned">
                     <div className="column">

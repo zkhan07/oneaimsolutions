@@ -3,17 +3,18 @@ import { Container } from "reactstrap";
 
 const Service = () => {
     return(
-        <div>
+        <div id="service">
              <Container>
 
         
             <br/><br/><br/><br/>
 
             <div className="ui conatiner">
-                <div className="ui grid center aligned">
-                    <h1><b>SERVICES</b></h1>
+                <div className="ui black segment center aligned">
+                    <h2><b>SERVICES</b></h2>
                 </div>
-                <br/><br/><br/><br/>
+              
+                <br/><br/>
                 <div className="doubling stackable ui four column grid center aligned">
                     <div className="column">
                         <i className="circular cart huge icon"></i>

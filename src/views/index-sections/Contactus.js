@@ -3,17 +3,17 @@ import { Container } from "reactstrap";
 
 const Contactus = () => {
     return(
-        <div>
+        <div id="contactus">
              <Container>
 
         
             <br/><br/><br/><br/>
 
             <div className="ui conatiner">
-                <div className="ui grid center aligned">
-                    <h1><b>CONTACT US</b></h1>
+                <div className="ui black segment center aligned">
+                    <h2><b>CONTACT US</b></h2>
                 </div>
-                <br/><br/><br/><br/>
+                <br/><br/>
                 <div className="doubling stackable ui three column grid center aligned">
                     <div className="column">
                         <i className="circular home huge icon"></i>

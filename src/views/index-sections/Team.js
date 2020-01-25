@@ -3,17 +3,18 @@ import { Container, Row, Col } from "reactstrap";
 
 const Team = () => {
     return(
-        <div>
+        <div id="team">
              <Container>
 
            
             <br/><br/><br/><br/>
 
             <div className="ui conatiner">
-                <div className="ui grid center aligned">
-                    <h1><b>TEAM</b></h1>
+                <div className="ui black segment center aligned">
+                    <h2><b>TEAM</b></h2>
                 </div>
-                <br/><br/><br/><br/>
+              
+                <br/><br/>
 
                 <div id="images">
                     <Container>
@@ -68,7 +69,7 @@ const Team = () => {
                 
 
 
-            <br/><br/><br/><br/>
+            <br/><br/>
             <div className="ui divider"></div>
       
             </Container>

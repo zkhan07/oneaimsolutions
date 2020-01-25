@@ -75,10 +75,7 @@ function IndexNavbar() {
       <Container>
         <div className="navbar-translate">
           <NavbarBrand
-            data-placement="bottom"
-            href="/index"
-            target="_blank"
-            title="Coded by Creative Tim"
+            href="/"
           >
             OneAimSolutions
           </NavbarBrand>
@@ -103,26 +100,45 @@ function IndexNavbar() {
 
           <NavItem>
               <NavLink
-                data-placement="bottom"
-                href="#"
-                target="_blank"
-                title="Home Page"
+                href="/"
               >
                Home
               </NavLink>
             </NavItem>
+
             <NavItem>
               <NavLink
-                data-placement="bottom"
-                href="#"
-                target="_blank"
-                title="Home Page"
+                href="#aboutus"
               >
                About
               </NavLink>
             </NavItem>
 
             <NavItem>
+              <NavLink
+                href="#service"
+              >
+               Services
+              </NavLink>
+            </NavItem>
+
+            <NavItem>
+              <NavLink
+                href="#team"
+              >
+               Team
+              </NavLink>
+            </NavItem>
+
+            <NavItem>
+              <NavLink
+                href="#portfolio"
+              >
+               Portfolio
+              </NavLink>
+            </NavItem>
+
+            {/* <NavItem>
                   <Nav className="mr-auto" navbar>
                     <UncontrolledDropdown nav inNavbar>
                       <DropdownToggle
@@ -181,26 +197,20 @@ function IndexNavbar() {
                       </DropdownMenu>
                     </UncontrolledDropdown>
                   </Nav>
-            </NavItem>
-
-            <NavItem>
+            </NavItem> */}
+             <NavItem>
               <NavLink
-                data-placement="bottom"
-                href="#"
-                target="_blank"
-                title="Home Page"
+                href="#project"
               >
-               Services
+               Project
               </NavLink>
             </NavItem>
+        
             <NavItem>
               <NavLink
-                data-placement="bottom"
-                href="#"
-                target="_blank"
-                title="Home Page"
+                href="#contactus"
               >
-               Contact Us
+               Contact
               </NavLink>
             </NavItem>
 
