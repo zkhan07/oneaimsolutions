@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c277058e6c4e0712388c95be412e7758",
+    "revision": "7fda396726f2bc37db6b55999b8de6be",
     "url": "/oneaimsolutions/index.html"
   },
   {
-    "revision": "6fb5eec9781659c9dd46",
-    "url": "/oneaimsolutions/static/css/main.b476b224.chunk.css"
+    "revision": "11d5c92734e8cf157848",
+    "url": "/oneaimsolutions/static/css/main.2a7ef9c6.chunk.css"
   },
   {
-    "revision": "9a112e3e89dd7e02b091",
-    "url": "/oneaimsolutions/static/js/2.0d3bdfff.chunk.js"
+    "revision": "f0909ad02bc8c19004a2",
+    "url": "/oneaimsolutions/static/js/2.49996c4f.chunk.js"
   },
   {
-    "revision": "6fb5eec9781659c9dd46",
-    "url": "/oneaimsolutions/static/js/main.bba08ae6.chunk.js"
+    "revision": "11d5c92734e8cf157848",
+    "url": "/oneaimsolutions/static/js/main.bea7c82b.chunk.js"
   },
   {
     "revision": "fc98bb0acc67b0953219",
@@ -144,19 +144,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oneaimsolutions/static/media/sir.c015a8ee.png"
   },
   {
-    "revision": "a45923396991ead41fed58c9f3212e18",
-    "url": "/oneaimsolutions/static/media/sir1.a4592339.jpg"
-  },
-  {
     "revision": "29df8117c07250e9b1ea8e3a67627f67",
     "url": "/oneaimsolutions/static/media/soroush-karimi.29df8117.jpg"
   },
   {
-    "revision": "fe3a7838dddb1fbf6901af17ca246ea1",
-    "url": "/oneaimsolutions/static/media/uriel-soberanes.fe3a7838.jpg"
+    "revision": "c854c1de0e1dd02b195358ee73bffa79",
+    "url": "/oneaimsolutions/static/media/team-1.c854c1de.jpg"
   },
   {
-    "revision": "cd2dff829d4a914b3c4f5fca2918bde3",
-    "url": "/oneaimsolutions/static/media/zaid.cd2dff82.png"
+    "revision": "fe3a7838dddb1fbf6901af17ca246ea1",
+    "url": "/oneaimsolutions/static/media/uriel-soberanes.fe3a7838.jpg"
   }
 ]);
