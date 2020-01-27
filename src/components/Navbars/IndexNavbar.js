@@ -75,7 +75,7 @@ function IndexNavbar() {
       <Container>
         <div className="navbar-translate">
           <NavbarBrand
-            href="/index"
+            href="/"
           >
             <h5>One<span style={{color: "red"}}>Aim</span>Solutions</h5>
           </NavbarBrand>
@@ -100,7 +100,7 @@ function IndexNavbar() {
 
           <NavItem>
               <NavLink
-                href="/index"
+                href="/"
               >
                Home
               </NavLink>
