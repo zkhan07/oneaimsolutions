@@ -18,6 +18,8 @@
 */
 /*eslint-disable*/
 import React from "react";
+import "./Style.css";
+// import { Link } from "react-router-dom";
 
 // reactstrap components
 import { Row, Container } from "reactstrap";
@@ -30,23 +32,19 @@ function DemoFooter() {
           <nav className="footer-nav">
             <ul>
               <li>
-                <a
-                  href="#"
-                >
+                <a>
                   ZaidKhan
                 </a>
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://zkhan07.github.io/zaidkhan_portfolio/"
                 >
                   Blog
                 </a>
               </li>
               <li>
-                <a
-                  href="#"
-                >
+                <a>
                   Licenses
                 </a>
               </li>
@@ -58,7 +56,9 @@ function DemoFooter() {
                 © {new Date().getFullYear()}, made with ZAID
                 <i className="fa fa-heart heart" /> by Creative ZAID KHAN
               </b>
+              
             </span>
+            <a href="#indexheader"><i className="big arrow alternate circle up outline icon icon1"></i></a>
           </div>
         </Row>
       </Container>

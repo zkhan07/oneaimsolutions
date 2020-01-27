@@ -33,10 +33,16 @@ function SectionNucleoIcons() {
               <h2 className="title">Our Main Services</h2>
               <br />
               <p className="description">
-                One Aim Solutions comes with 100 custom icons made by our friends from
-                NucleoApp. The official package contains over 2.100 thin icons
-                which are looking great in combination with Paper Kit Make sure
-                you check all of them and use those that you like the most.
+                Payroll processing service solutions for all sizes of companies across all industries.
+              </p>
+              <p className="description">
+                We provide Labour Law Consultancy Services under various Labour Enactments.
+              </p>
+              <p className="description">
+                We provide HR Consultancy Services for the benefit of employers as well as employees.
+              </p>
+              <p className="description">
+                A website is a showcase to the world, which gives your customer a glimpse of products and services you offered.
               </p>
               <br />
               <Button

@@ -7,65 +7,62 @@ const Footer = () => {
              <Container>
                
 
-        <br/><br/><br/><br/>
-
-           
-
-          
-
-
+            <br/><br/>
            
             <div className="ui container">
             <div className="doubling stackable ui equal width Column grid">
                 <div className="column">
                 <h3><b>OneAimSolutions</b></h3>
                 <div class="ui link list">
-                <p>OneAimSolutions is amongst the most favored and trusted companies offering online forex trading in india.</p>
-                <a><i className="facebook big icon"></i></a>
-                <a><i className="instagram big icon"></i></a>
-                <a><i className="linkedin big icon"></i></a>
-                <a><i className="twitter big icon"></i></a>
+                <p>OneAimSolutions take utmost care in providing prompt service and answer the queries our customers are having.</p>
+
                 </div>
                 </div>
 
-                <div className="column">
-                <h3> Learn to Trade </h3>
-                <div class="ui link list">
-                <a class="item">Forex</a>
-                <a class="item">Commodities</a>
-                <a class="item">Indices</a>
-                <a class="item">Stocks</a>
-                <a class="item">profit4money Conditions</a>
-                <a class="item">Trading FAQs</a>
-                </div>
-                </div>
-
-                <div className="column">
-                <h3> Tools for Training </h3>
-                <div class="ui link list">
-                <a class="item">Daily Market Review</a>
-                <a class="item">Financial Calendar</a>
-                <a class="item">Real Time Charts</a>
-                <a class="item">Signals</a>
-                <a class="item">Platforms</a>
-                <a class="item">Live Market Rates</a>
-                <a class="item">Education Package</a>
-                </div>
-                </div>
 
                 <div className="column">
                 <h3>About OneAimSolutions </h3>
                 <div class="ui link list">
-                <a class="item">Our Vision</a>
-                <a class="item">Trading Benefits</a>
-                <a class="item">Trading Support</a>
-                <a class="item">profit4money Help Center</a>
-                <a class="item">Our Trading Policy</a>
-                <a class="item">Disclaimer</a>
-                <a class="item">Trading Terms</a>
-                <a class="item">Risk Caution</a>
-                <a class="item">Blog</a>
+                <a href="#" class="item">Home</a>
+                <a href="#aboutus" class="item">About</a>
+                <a href="#service" class="item">Services</a>
+                <a href="#team" class="item">Team</a>
+                <a href="#portfolio" class="item">Portfolio</a>
+                <a href="#project" class="item">Projects</a>
+                <a href="#contactus" class="item">Contact</a>
                 </div>
+                </div>
+
+            
+                <div className="column">
+                <h3> Our Services </h3>
+                <div class="ui link list">
+                <a href="#service" class="item">Payroll Processing</a>
+                <a href="#service" class="item">Labour Law Consultancy</a>
+                <a href="#service" class="item">HR Consultancy</a>
+                <a href="#service" class="item">Web Development</a>
+                </div>
+                </div>
+
+                <div className="column">
+                    <h3> Connect </h3>
+                    <div class="ui link list">
+                        <a href="https://mail.google.com/mail/u/0/#inbox" class="item"> 
+                            <i className="large circular mail icon"></i>
+                        </a>
+                        <a href="https://twitter.com/oneaimsolutions" class="item">
+                            <i className="large circular twitter icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/oneaimsolutions.oneaimsolutions.1" class="item">
+                            <i className="large circular facebook icon"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/oneaimsolutions-india-8ba8b9191/" class="item">
+                           <i className="large circular linkedin icon"></i>
+                        </a>
+                        <a href="https://www.instagram.com/oneaimsolutions2/?hl=en" class="item">
+                            <i className="large circular instagram icon"></i>
+                        </a>
+                    </div>
                 </div>
 
             </div>

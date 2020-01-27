@@ -27,7 +27,8 @@ import { Container } from "reactstrap";
 function IndexHeader() {
   return (
     <>
-      <div
+      <div 
+        id="indexheader"
         className="page-header section-dark"
         style={{
           backgroundImage:
@@ -38,7 +39,7 @@ function IndexHeader() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">I am Zaid Khan</h1>
+              <h1>MAKING <span style={{color: "red"}}>YOUR IDEAS</span> <br/>HAPPEN!</h1>
               <div className="fog-low">
                 <img alt="..." src={require("assets/img/fog-low.png")} />
               </div>
@@ -57,13 +58,6 @@ function IndexHeader() {
             backgroundImage: "url(" + require("assets/img/clouds.png") + ")"
           }}
         />
-        <h4 className="category category-absolute">
-         
-          <a href="#">
-             Designed and coded by ZAIDKHAN
-           
-          </a>
-        </h4>
       </div>
     </>
   );

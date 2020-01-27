@@ -17,24 +17,24 @@ const Service = () => {
                 <br/><br/>
                 <div className="doubling stackable ui four column grid center aligned">
                     <div className="column">
-                        <i className="circular cart huge icon"></i>
-                        <h2>Marketing</h2>
-                        <p>Customer satisfaction survey</p>
+                        <i className="circular calculator huge icon"></i>
+                        <h2>Payroll Processing</h2> <br/>
+                        <p className="para">Payroll processing service solutions for all sizes of companies across all industries</p>
                     </div>
                     <div className="column">
-                        <i className="circular paste huge icon"></i>
-                        <h2>Consulting</h2>
-                        <p>Customer satisfaction survey</p>
+                        <i className="circular clipboard outline huge icon"></i>
+                        <h2>Labour Law Consultancy</h2> <br/>
+                        <p className="para">We provide Labour Law Consultancy Services under various Labour Enactments</p>
                     </div>
                     <div className="column">
-                        <i className="circular copy huge icon"></i>
-                        <h2>Analytics</h2>
-                        <p>Customer satisfaction survey</p>
+                        <i className="circular copy outline huge icon"></i>
+                        <h2>HR Consultancy</h2> <br/>
+                        <p className="para">We provide HR Consultancy Services for the benefit of employers as well as employees</p>
                     </div>
                     <div className="column">
-                        <i className="circular users huge icon"></i>
-                        <h2>Business</h2>
-                        <p>Customer satisfaction survey</p>
+                        <i className="circular cloud out huge icon"></i>
+                        <h2>Web Development</h2> <br/>
+                        <p className="para">We provide HR Consultancy Services for the benefit of employers as well as employees</p>
                     </div>
                 </div>
             </div>

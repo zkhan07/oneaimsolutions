@@ -4642,7 +4642,7 @@ License - nucleoapp.com/license/
   margin-top: -15px; }
 
 #follows .follows h6 {
-  margin-top: 15px; }
+  margin-top: 5px; }
 
 .follows hr {
   margin-top: 10px; }
@@ -4666,8 +4666,8 @@ License - nucleoapp.com/license/
     right: -15px; }
 
 .presentation-title {
-  font-size: 8em;
-  font-weight: 700;
+  font-size: 4em;
+  font-weight: 400;
   margin: 0;
   color: #FFFFFF;
   background: #fbf8ec;

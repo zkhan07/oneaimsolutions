@@ -25,16 +25,16 @@ const Contactus = () => {
                         <i className="circular phone huge icon"></i>
                         <h4><b>PHONE NUMBER</b></h4>
                         <br/>
-                        <p><a href="#">Jaweed Shaikh :- +973 3538 5486</a></p>
-                        <p>Tooba Shaikh +91 88790 76270</p>
-                        <p>Lokesh Singh +91 93736 73889</p>
-                        <p>Niraj sharma +91 89755 81443</p>
+                        <p>Jaweed Shaikh :- +973 3538 5486</p>
+                        <p>Tooba Shaikh :- +91 88790 76270</p>
+                        <p>Lokesh Singh :- +91 93736 73889</p>
+                        <p>Niraj sharma :- +91 89755 81443</p>
                     </div>
                     <div className="column">
                         <i className="circular mail huge icon"></i>
                         <h4><b>EMAIL</b></h4>
                         <br/>
-                        <p><a href="#">jaweed@oneaimsolutions.com</a></p>
+                        <p>jaweed@oneaimsolutions.com</p>
                     </div>
                 </div>
             </div>

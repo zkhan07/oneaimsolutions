@@ -75,9 +75,9 @@ function IndexNavbar() {
       <Container>
         <div className="navbar-translate">
           <NavbarBrand
-            href="/"
+            href="/index"
           >
-            OneAimSolutions
+            <h5>One<span style={{color: "red"}}>Aim</span>Solutions</h5>
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -100,7 +100,7 @@ function IndexNavbar() {
 
           <NavItem>
               <NavLink
-                href="/"
+                href="/index"
               >
                Home
               </NavLink>
@@ -217,8 +217,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
-                target="_blank"
+                href="https://twitter.com/oneaimsolutions"
                 title="Follow us on Twitter"
               >
                 <i className="fa fa-twitter" />
@@ -228,8 +227,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
-                target="_blank"
+                href="https://www.facebook.com/oneaimsolutions.oneaimsolutions.1"
                 title="Like us on Facebook"
               >
                 <i className="fa fa-facebook-square" />
@@ -239,8 +237,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
-                target="_blank"
+                href="https://www.instagram.com/oneaimsolutions2/?hl=en"
                 title="Follow us on Instagram"
               >
                 <i className="fa fa-instagram" />
@@ -250,11 +247,10 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
-                target="_blank"
+                href="https://www.linkedin.com/in/oneaimsolutions-india-8ba8b9191/"
                 title="Star on GitHub"
               >
-                <i className="fa fa-github" />
+                <i className="fa fa-linkedin" />
                
               </NavLink>
             </NavItem>
@@ -267,15 +263,11 @@ function IndexNavbar() {
                 target="_blank"
                 disabled
               >
-                SIGN IN
+                signin
               </Button>
             </NavItem>
 
-           
-
-            
-              
-
+          
           </Nav>
         </Collapse>
       </Container>

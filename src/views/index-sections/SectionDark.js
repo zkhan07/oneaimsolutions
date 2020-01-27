@@ -32,10 +32,10 @@ function SectionDark() {
             <Col className="ml-auto mr-auto text-center" md="8">
               <h2 className="title">One Aim Solutions</h2>
               <p className="description">
-                The One Aim Solutions comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. More importantly, looking at them will give you a picture of
-                what you can built with this powerful kit.
+                We are based in Mumbai and we have our team
+                who are professionals in Human Resources and
+                Payroll Management , Labour Laws , Information
+                Technology, and Finance and Taxation.
               </p>
             </Col>
           </Row>

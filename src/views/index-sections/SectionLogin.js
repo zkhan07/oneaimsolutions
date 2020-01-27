@@ -47,7 +47,7 @@ function SectionLogin() {
           <Row>
             <Col className="mx-auto" lg="4" md="6">
               <Card className="card-register">
-                <h3 className="title mx-auto">Welcome to One Aim</h3>
+                <h3 className="title mx-auto">Contact Us</h3>
                 <div className="social-line text-center">
                   <Button
                     className="btn-neutral btn-just-icon mt-0"
@@ -75,23 +75,32 @@ function SectionLogin() {
                   </Button>
                 </div>
                 <Form className="register-form">
+                <label>Name</label>
+                  <InputGroup className="form-group-no-border">
+                    <InputGroupAddon addonType="prepend">
+                      <InputGroupText>
+                        <i className="nc-icon nc-edit" />
+                      </InputGroupText>
+                    </InputGroupAddon>
+                    <Input placeholder="Name" type="text" />
+                  </InputGroup>
                   <label>Email</label>
                   <InputGroup className="form-group-no-border">
                     <InputGroupAddon addonType="prepend">
                       <InputGroupText>
-                        <i className="nc-icon nc-email-85" />
+                        <i className="nc-icon nc-edit-85" />
                       </InputGroupText>
                     </InputGroupAddon>
                     <Input placeholder="Email" type="email" />
                   </InputGroup>
-                  <label>Password</label>
+                  <label>Message</label>
                   <InputGroup className="form-group-no-border">
                     <InputGroupAddon addonType="prepend">
                       <InputGroupText>
-                        <i className="nc-icon nc-key-25" />
+                        <i className="nc-icon nc-edit-25" />
                       </InputGroupText>
                     </InputGroupAddon>
-                    <Input placeholder="Password" type="password" />
+                    <Input placeholder="Message" type="text" />
                   </InputGroup>
                   <Button
                     block
@@ -99,7 +108,7 @@ function SectionLogin() {
                     color="danger"
                     type="button"
                   >
-                    Register
+                    Submit
                   </Button>
                 </Form>
                 <div className="forgot">
@@ -109,11 +118,11 @@ function SectionLogin() {
                     href="#pablo"
                     onClick={e => e.preventDefault()}
                   >
-                    Forgot password?
+                    Sign in
                   </Button>
                 </div>
               </Card>
-              <div className="col text-center">
+              {/* <div className="col text-center">
                 <Button
                   className="btn-round"
                   outline
@@ -124,7 +133,7 @@ function SectionLogin() {
                 >
                   View Register Page
                 </Button>
-              </div>
+              </div> */}
             </Col>
           </Row>
         </Container>
