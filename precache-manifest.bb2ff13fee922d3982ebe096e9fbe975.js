@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f39fe011bcdd0c5d93a4406243c1ded3",
+    "revision": "aa453dee482e82a021afb24682eeeff6",
     "url": "/oneaimsolutions/index.html"
   },
   {
-    "revision": "7f6604178a301015efab",
-    "url": "/oneaimsolutions/static/css/main.7a7e7fc3.chunk.css"
+    "revision": "90f83c2163f0a6b9c45c",
+    "url": "/oneaimsolutions/static/css/main.2a7ef9c6.chunk.css"
   },
   {
-    "revision": "51cacb96e0dff29675ce",
-    "url": "/oneaimsolutions/static/js/2.4772c5c2.chunk.js"
+    "revision": "37593b8bdb626d1808c4",
+    "url": "/oneaimsolutions/static/js/2.ba0b781a.chunk.js"
   },
   {
-    "revision": "7f6604178a301015efab",
-    "url": "/oneaimsolutions/static/js/main.e8492174.chunk.js"
+    "revision": "90f83c2163f0a6b9c45c",
+    "url": "/oneaimsolutions/static/js/main.a52083b6.chunk.js"
   },
   {
     "revision": "fc98bb0acc67b0953219",
