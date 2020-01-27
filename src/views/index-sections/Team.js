@@ -54,7 +54,7 @@ const Team = () => {
                                 <img
                                 alt="..."
                                 className="img-circle img-no-padding img-responsive"
-                                src={require("assets/img/faces/sir1.jpeg")}
+                                src={require("assets/img/faces/sir1.jpg")}
                                 />
                                 <p className="text-center">Niraj Sharma</p>
                                 <br/><br/><br/>
