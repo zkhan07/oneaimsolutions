@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/oneaimsolutions/static/css/main.2a7ef9c6.chunk.css",
-    "main.js": "/oneaimsolutions/static/js/main.a52083b6.chunk.js",
-    "main.js.map": "/oneaimsolutions/static/js/main.a52083b6.chunk.js.map",
+    "main.css": "/oneaimsolutions/static/css/main.b476b224.chunk.css",
+    "main.js": "/oneaimsolutions/static/js/main.bba08ae6.chunk.js",
+    "main.js.map": "/oneaimsolutions/static/js/main.bba08ae6.chunk.js.map",
     "runtime~main.js": "/oneaimsolutions/static/js/runtime~main.113325dd.js",
     "runtime~main.js.map": "/oneaimsolutions/static/js/runtime~main.113325dd.js.map",
-    "static/js/2.ba0b781a.chunk.js": "/oneaimsolutions/static/js/2.ba0b781a.chunk.js",
-    "static/js/2.ba0b781a.chunk.js.map": "/oneaimsolutions/static/js/2.ba0b781a.chunk.js.map",
+    "static/js/2.0d3bdfff.chunk.js": "/oneaimsolutions/static/js/2.0d3bdfff.chunk.js",
+    "static/js/2.0d3bdfff.chunk.js.map": "/oneaimsolutions/static/js/2.0d3bdfff.chunk.js.map",
     "index.html": "/oneaimsolutions/index.html",
-    "precache-manifest.bb2ff13fee922d3982ebe096e9fbe975.js": "/oneaimsolutions/precache-manifest.bb2ff13fee922d3982ebe096e9fbe975.js",
+    "precache-manifest.de601e3555677cc58aa9389504980480.js": "/oneaimsolutions/precache-manifest.de601e3555677cc58aa9389504980480.js",
     "service-worker.js": "/oneaimsolutions/service-worker.js",
-    "static/css/main.2a7ef9c6.chunk.css.map": "/oneaimsolutions/static/css/main.2a7ef9c6.chunk.css.map",
+    "static/css/main.b476b224.chunk.css.map": "/oneaimsolutions/static/css/main.b476b224.chunk.css.map",
     "static/media/1.jpg": "/oneaimsolutions/static/media/1.d6684974.jpg",
     "static/media/2.jpg": "/oneaimsolutions/static/media/2.477d0ec7.jpg",
     "static/media/3.jpg": "/oneaimsolutions/static/media/3.8d1ca407.jpg",
@@ -39,8 +39,9 @@
     "static/media/profile-page.png": "/oneaimsolutions/static/media/profile-page.ed812899.png",
     "static/media/ryan.jpg": "/oneaimsolutions/static/media/ryan.f217f346.jpg",
     "static/media/sir.png": "/oneaimsolutions/static/media/sir.c015a8ee.png",
+    "static/media/sir1.jpg": "/oneaimsolutions/static/media/sir1.a4592339.jpg",
     "static/media/soroush-karimi.jpg": "/oneaimsolutions/static/media/soroush-karimi.29df8117.jpg",
-    "static/media/team-1.jpg": "/oneaimsolutions/static/media/team-1.c854c1de.jpg",
-    "static/media/uriel-soberanes.jpg": "/oneaimsolutions/static/media/uriel-soberanes.fe3a7838.jpg"
+    "static/media/uriel-soberanes.jpg": "/oneaimsolutions/static/media/uriel-soberanes.fe3a7838.jpg",
+    "static/media/zaid.png": "/oneaimsolutions/static/media/zaid.cd2dff82.png"
   }
 }
