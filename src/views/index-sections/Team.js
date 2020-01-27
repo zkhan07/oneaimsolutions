@@ -54,9 +54,19 @@ const Team = () => {
                                 <img
                                 alt="..."
                                 className="img-circle img-no-padding img-responsive"
-                                src={require("assets/img/faces/team-1.jpg")}
+                                src={require("assets/img/faces/sir1.jpeg")}
                                 />
                                 <p className="text-center">Niraj Sharma</p>
+                                <br/><br/><br/>
+                            </Col>
+                            <Col className="mr-auto ml-auto" md="2" sm="3">
+                                <h4 className="images-title text-center">Junior Developer</h4>
+                                <img
+                                alt="..."
+                                className="img-circle img-no-padding img-responsive"
+                                src={require("assets/img/faces/zaid.png")}
+                                />
+                                <p className="text-center">Zaid Khan</p>
                                 <br/><br/><br/>
                             </Col>
                             
